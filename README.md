@@ -16,9 +16,12 @@ This project was developed as part of a second-year web programming course at th
 - Download option for each educational file
 - Organized by course or category for easy access
 
-## 📸 Screenshots
-
+## 📸 Screenshots 
+- **welcome page**:
 ![welcome page](https://github.com/bricio-imbiki/E-Book/blob/main/assets/img/E-Book-app.png)
+
+- **detail view book page**:
+  ![view page](https://github.com/bricio-imbiki/E-Book/blob/main/assets/img/E-Book-app-views.png)
 
 ## 🏫 Academic Context
 
