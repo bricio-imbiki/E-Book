@@ -18,7 +18,7 @@ This project was developed as part of a second-year web programming course at th
 
 ## 📸 Screenshots
 
-!(https://github.com/bricio-imbiki/E-Book/blob/main/assets/img/E-Book-app.png)
+![welcome page](https://github.com/bricio-imbiki/E-Book/blob/main/assets/img/E-Book-app.png)
 
 ## 🏫 Academic Context
 
