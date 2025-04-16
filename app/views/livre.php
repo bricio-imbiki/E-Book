@@ -11,7 +11,7 @@
     while ($res = $element->fetch()) {
     ?>
 <?php bHeader(); ?>
-<div style="background-image:url(&quot;<?php echo path('img/livres/' . $res['src'] . '.jpg') ?>&quot;);height:500px;background-position:center;background-size:cover;background-repeat:no-repeat;'); height:500px;background-position:center;background-size:cover;background-repeat:no-repeat;">
+<div style="background-image:url(&quot;<?php echo path('../assets/img/livres/' . $res['src'] . '.jpg') ?>&quot;);height:500px;background-position:center;background-size:cover;background-repeat:no-repeat;'); height:500px;background-position:center;background-size:cover;background-repeat:no-repeat;">
     <div class="d-flex justify-content-center align-items-center" style="height:inherit;min-height:initial;width:100%;position:absolute;left:0;background-color:rgba(0,60,100,0.7);">
         <div class="d-flex align-items-center order-12" style="height:200px;">
             <div class="container">
