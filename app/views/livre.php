@@ -53,7 +53,7 @@
                         <div></div>
                         <div class="media-body">
                             <div class="media" style="overflow:visible;">
-                                <div><img class="mr-3" style="width: 25px; height:25px;" src="<?php echo path('img/user-photo4.jpg') ?>"></div>
+                                <div><img class="mr-3" style="width: 25px; height:25px;" src="<?php echo path('../assets/img/user-photo4.jpg') ?>"></div>
                                 <div class="media-body" style="overflow:visible;">
                                     <div class="row">
                                         <div class="col-md-12">
